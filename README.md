@@ -5,6 +5,8 @@
 This project consists of configuring custom firewall rules on a pfSense Firewall. View PDF File under file section with screenshots. 
 <br />
 
+- [Screenshots and step by step process](https://github.com/SulliZ/Customizing-Firewall-Rules/blob/main/ZadranSaliman_Configuring_Custom_Firewall_Rules.pdf) 
+
 
 <h2>Applications Used</h2>
 
